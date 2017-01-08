@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{40F3AE16-8B01-B713-4700-ED4C24B97B30}") = "Space Unicorn Arcade Blaster Extremely Deluxe and Cool Edition", "Assembly-CSharp-firstpass.csproj", "{22083AE2-A282-B8B9-E459-DEE3960D05F5}"
+EndProject
+Project("{40F3AE16-8B01-B713-4700-ED4C24B97B30}") = "Space Unicorn Arcade Blaster Extremely Deluxe and Cool Edition", "Assembly-CSharp.csproj", "{E42AACA2-3B50-D99C-3FAB-7AE3AFA94B8F}"
+EndProject
+Project("{40F3AE16-8B01-B713-4700-ED4C24B97B30}") = "Space Unicorn Arcade Blaster Extremely Deluxe and Cool Edition", "Assembly-CSharp-Editor.csproj", "{428A30A8-6639-9469-E38A-7C4FCA9B4D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22083AE2-A282-B8B9-E459-DEE3960D05F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22083AE2-A282-B8B9-E459-DEE3960D05F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22083AE2-A282-B8B9-E459-DEE3960D05F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22083AE2-A282-B8B9-E459-DEE3960D05F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42AACA2-3B50-D99C-3FAB-7AE3AFA94B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42AACA2-3B50-D99C-3FAB-7AE3AFA94B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42AACA2-3B50-D99C-3FAB-7AE3AFA94B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42AACA2-3B50-D99C-3FAB-7AE3AFA94B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428A30A8-6639-9469-E38A-7C4FCA9B4D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428A30A8-6639-9469-E38A-7C4FCA9B4D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428A30A8-6639-9469-E38A-7C4FCA9B4D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428A30A8-6639-9469-E38A-7C4FCA9B4D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
